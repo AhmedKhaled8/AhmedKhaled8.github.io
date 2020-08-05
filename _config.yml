@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Ahmed Khaled Abdelrahman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/my-image.jpg"
   bio              : "I am a student at Systems and Biomedical Engineering department in Cairo University."
   location         : "Maadi, Cairo, Egypt"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ahmed.khaled0811@gmail.com"
+      # url: "ahmed.khaled0811@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
